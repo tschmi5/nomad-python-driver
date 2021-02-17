@@ -1,6 +1,5 @@
 // TODO: update the module path below to match your own repository
-module github.com/hashicorp/nomad-skeleton-driver-plugin
-
+module github.com/tschmi5/nomad-python-driver
 go 1.12
 
 require (
